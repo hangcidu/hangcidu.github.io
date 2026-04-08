@@ -31,6 +31,6 @@ My academic taste have been profoundly shaped by my brilliant advisors (Shude Ma
 
 ### 🌟 Beyond Academia
 
-![](images/wife.jpg)
+![](wife.jpg)
 
 Life is beautifully balanced by my wonderful wife, who is a faculty member (Lecturer) at Shanghai Normal University. While I study the physical dynamics and rhythms of the galaxies, her research delves into the cultural rhythms of ancient China—specifically the musical and metric theories of classical Chinese theatre (*Kunqu* Opera). Together, we enjoy exploring the fascinating intersection of science and art.
