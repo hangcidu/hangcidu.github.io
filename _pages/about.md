@@ -15,13 +15,13 @@ Currently, I am an **Assistant Researcher** at the **Innovation Academy for Micr
 
 Despite my involvement in space missions, my research heart remains anchored in astrophysics. I am still active in the field, with several papers currently in preparation. My scientific passion lies in **Galactic Dynamics**, specifically focusing on the dynamics and secular evolution of galactic bars and spiral arms. 
 
-My academic taste have been profoundly shaped by my brilliant advisors (Shude Mao & Youjun Lu), as well as by giants in the field of dynamics, including **E. Lia Athanassoula, Juntai Shen, G. Contopoulos, and J. A. Sellwood**.
+My academic taste have been profoundly shaped by my brilliant advisors (**Shude Mao** & **Youjun Lu**), as well as by giants in the field of dynamics, including **E. Lia Athanassoula, Juntai Shen, G. Contopoulos, and J. A. Sellwood**.
 
 ### ✨ Recent Highlights & News
-*   🚀 **Upcoming Presentation:** I am to present two of my recent works at the upcoming **AAS DDA 2026**: 
-    1. *Local Pattern Speed*
-    2. *TNG50 Early-Type Bars* (Nominated as an RAA Highlight)
-*   📝 **Academic Service:** I am honored to serve as a referee for *MNRAS*, a role I took on following a recommendation by **Prof. Simon White**.
+*   🚀 **Upcoming Presentation:** To present two of my recent works at the upcoming **AAS DDA 2026**: 
+    1. [*Local Pattern Speed*](https://arxiv.org/abs/2603.05287)
+    2. [*TNG50 Early-Type Bars*](https://arxiv.org/abs/2603.21279) (Nominated as an RAA Highlight)
+*   📝 **Academic Service:** Referee for *MNRAS*, recommended by **Prof. Simon White**.
 
 ### 🎓 Academic Journey
 *   **Ph.D. in Astrophysics**, National Astronomical Observatories, CAS (NAOC)
