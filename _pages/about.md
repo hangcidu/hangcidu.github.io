@@ -30,8 +30,8 @@ Through collaborations and academic exchanges, I have had the opportunity to eng
 * **GRID** (2018), a Tsinghua University student microsatellite project for gamma-ray burst detection.
 * **DAMPE / “Wukong”** (2022), a dark matter particle explorer mission associated with Purple Mountain Observatory.
 * **MUST 6-m Wide-Field Telescope** (2023), a wide-field optical telescope project at Tsinghua University.
-* **Taiji Program** (2023), a space-based gravitational wave detection mission.
-* **ET** (2023), a satellite project for exoplanet detection.
+* **Taiji Program** (2023), a space-based gravitational wave detection mission at National Astronomical Observatories.
+* **ET** (2023), a satellite project for exoplanet detection at Shanghai Astronomical Observatory.
 
 ### 🎓 Academic Journey
 *   **Ph.D. in Astrophysics**, National Astronomical Observatories, CAS (NAOC)
