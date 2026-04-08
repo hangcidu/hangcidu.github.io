@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About"
+title: "👋 Welcome to My Homepage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# 👋 Welcome to My Homepage!
+
 
 I am an astrophysics researcher currently wearing two exciting hats: bridging the gap between cutting-edge space missions and pure astrophysical research. 
 
@@ -31,6 +31,6 @@ My academic taste have been profoundly shaped by my brilliant advisors (Shude Ma
 
 ### 🌟 Beyond Academia
 
-![](wife.jpg)
+![](images/wife.jpg)
 
 Life is beautifully balanced by my wonderful wife, who is a faculty member (Lecturer) at Shanghai Normal University. While I study the physical dynamics and rhythms of the galaxies, her research delves into the cultural rhythms of ancient China—specifically the musical and metric theories of classical Chinese theatre (*Kunqu* Opera). Together, we enjoy exploring the fascinating intersection of science and art.
