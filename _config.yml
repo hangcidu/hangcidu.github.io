@@ -23,10 +23,10 @@ repository               : "hangcidu/hangcidu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Hangci Du (杜航慈)"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant researcher in science satellite system design; PhD in galactic dynamics."
+  bio              : "Assistant researcher in astronomical satellite system design; Got PhD on Galactic Dynamics @NAOC."
   location         : "Shanghai"
   employer         : "Innovation Academy for Microsatellites, CAS"
   uri              : # URL
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0003-1022-4617"
   semantic         : # URL
   ssrn             : # URL
-  # pubmed           : ""
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -58,7 +58,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
