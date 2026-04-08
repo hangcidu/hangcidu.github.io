@@ -21,7 +21,7 @@ My academic taste have been profoundly shaped by my brilliant advisors (**Shude 
 *   🚀 **Upcoming Presentation:** To present two of my recent works at the upcoming **AAS DDA 2026**: 
     1. [*Local Pattern Speed*](https://arxiv.org/abs/2603.05287)
     2. [*TNG50 Early-Type Bars*](https://arxiv.org/abs/2603.21279) (Nominated as an RAA Highlight)
-*   📝 **Academic Service:** Referee for *MNRAS*, recommended by **Prof. Simon White**.
+*   📝 **Academic Service:** Referee for *MNRAS*, proudly recommended by **Prof. Simon White**.
 
 ### 🎓 Academic Journey
 *   **Ph.D. in Astrophysics**, National Astronomical Observatories, CAS (NAOC)
