@@ -17,11 +17,21 @@ Alongside my work on space missions, I remain actively engaged in astrophysical 
 
 I have beed deeply influenced by my advisors, **Shude Mao** & **Youjun Lu**, as well as by the work of many outstanding scholars in galactic dynamics, including **E. Lia Athanassoula, Juntai Shen, G. Contopoulos, and J. A. Sellwood**.
 
-### ✨ Recent Highlights & News
+### ✨ Astrophysics Highlights
 *   🚀 **Upcoming Presentation:** I will present two of my recent works at the upcoming **AAS DDA 2026**: 
     1. [*Local Pattern Speed*](https://arxiv.org/abs/2603.05287)
     2. [*TNG50 Early-Type Bars*](https://arxiv.org/abs/2603.21279) (Nominated for an RAA Highlight)
 *   📝 **Academic Service:** Referee for *MNRAS* (recommended by **Prof. Simon White**).
+
+### 🛰️ Space Projects
+
+Through collaborations and academic exchanges, I have had the opportunity to engage with several astronomical and space science projects, including:
+
+* **GRID** (2018), a Tsinghua University student microsatellite project for gamma-ray burst detection.
+* **DAMPE / “Wukong”** (2022), a dark matter particle explorer mission associated with Purple Mountain Observatory.
+* **MUST 6-m Wide-Field Telescope** (2023), a wide-field optical telescope project at Tsinghua University.
+* **Taiji Program** (2023), a space-based gravitational wave detection mission.
+* **ET** (2023), a satellite project for exoplanet detection.
 
 ### 🎓 Academic Journey
 *   **Ph.D. in Astrophysics**, National Astronomical Observatories, CAS (NAOC)
