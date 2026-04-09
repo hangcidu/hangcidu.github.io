@@ -3,6 +3,7 @@ title: "Others"
 layout: single
 permalink: /others/
 author_profile: true
+comments: true
 ---
 
 ## Paper II 
