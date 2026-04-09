@@ -12,6 +12,8 @@ I am currently working on **a spiral mechanism project based on the Colibre and 
 
 [The Local Tremaine-Weinberg Method for Galactic Pattern Speed: Theory and its Application to TNG50](https://arxiv.org/abs/2603.05287), 2026-03-05@arxiv
 
+A novel unified formalism for measuring the pattern speeds of bars and spiral arms.
+
 The code will be open-sourced on 2027-09-05, or earlier upon reasonable request.
 
 TBD.
