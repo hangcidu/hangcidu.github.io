@@ -9,19 +9,29 @@ redirect_from:
 
 
 
-I am an astrophysics researcher currently wearing two exciting hats: bridging the gap between cutting-edge space missions and pure astrophysical research. 
+I am an astrophysics researcher whose work spans both astronomical satellite development and astrophysical research.
 
-Currently, I am an **Assistant Researcher** at the **Innovation Academy for Microsatellites of CAS (IAMCAS)**. In this role, I am involved in the system-level design of an astronomical satellite, and serve as a liaison connecting our engineering endeavors with the astronomical community. 
+I am currently an **Assistant Researcher** at the **Innovation Academy for Microsatellites of CAS (IAMCAS)**, where I work on the system-level design of an astronomical satellite and help connect mission development with the needs of the astronomical community.
 
-Despite my involvement in space missions, my research heart remains anchored in astrophysics. I am still active in the field, with several papers currently in preparation. My scientific passion lies in **Galactic Dynamics**, specifically focusing on the dynamics and secular evolution of galactic bars and spiral arms. 
+Alongside my work on space missions, I remain actively engaged in astrophysical research, with several papers currently in preparation. My main research interest is **Galactic Dynamics**, particularly the dynamics and secular evolution of galactic bars and spiral arms.
 
-My academic taste have been profoundly shaped by my brilliant advisors (Shude Mao & Youjun Lu), as well as by giants in the field of dynamics, including **E. Lia Athanassoula, Juntai Shen, G. Contopoulos, and J. A. Sellwood**.
+I have beed deeply influenced by my advisors, **Shude Mao** & **Youjun Lu**, as well as by the work of many outstanding scholars in galactic dynamics, including **E. Lia Athanassoula, Juntai Shen, G. Contopoulos, and J. A. Sellwood**.
 
-### ✨ Recent Highlights & News
-*   🚀 **Upcoming Presentation:** I am to present two of my recent works at the upcoming **AAS DDA 2026**: 
-    1. *Local Pattern Speed*
-    2. *TNG50 Early-Type Bars* (Nominated as an RAA Highlight)
-*   📝 **Academic Service:** I am honored to serve as a referee for *MNRAS*, a role I took on following a recommendation by **Prof. Simon White**.
+### ✨ Astrophysics Highlights
+*   🚀 **Upcoming Presentation:** I will present two of my recent works at the upcoming **AAS DDA 2026**: 
+    1. [*Local Pattern Speed*](https://arxiv.org/abs/2603.05287)
+    2. [*TNG50 Early-Type Bars*](https://arxiv.org/abs/2603.21279) (Nominated for an RAA Highlight)
+*   📝 **Academic Service:** Referee for *MNRAS* (recommended by **Prof. Simon White**).
+
+### 🛰️ Space Projects
+
+Through collaborations and academic exchanges, I have had the opportunity to engage with several astronomical and space science projects, including:
+
+* **GRID** (2018), a Tsinghua University student microsatellite project for gamma-ray burst detection.
+* **DAMPE / “Wukong”** (2022), a dark matter particle explorer mission associated with Purple Mountain Observatory.
+* **MUST 6.5-m Wide-Field Telescope** (2023), a wide-field optical telescope project at Tsinghua University.
+* **Taiji Program** (2023), a space-based gravitational wave detection mission at National Astronomical Observatories.
+* **ET** (2023), a satellite project for exoplanet detection associated with Shanghai Astronomical Observatory.
 
 ### 🎓 Academic Journey
 *   **Ph.D. in Astrophysics**, National Astronomical Observatories, CAS (NAOC)
@@ -31,6 +41,6 @@ My academic taste have been profoundly shaped by my brilliant advisors (Shude Ma
 
 ### 🌟 Beyond Academia
 
-![](images/wife.jpg)
+![](/images/wife.jpg)
 
-Life is beautifully balanced by my wonderful wife, who is a faculty member (Lecturer) at Shanghai Normal University. While I study the physical dynamics and rhythms of the galaxies, her research delves into the cultural rhythms of ancient China—specifically the musical and metric theories of classical Chinese theatre (*Kunqu* Opera). Together, we enjoy exploring the fascinating intersection of science and art.
+Outside academia, I enjoy a life enriched by my wife, who is a falculty Lecturer at Shanghai Normal University. Her research focuses on the musical and metrical theories of classical Chinese theatre, especially Kunqu opera. Our conversations often span both science and the humanities, a balance I deeply value.
