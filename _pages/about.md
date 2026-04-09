@@ -15,7 +15,7 @@ I am currently an **Assistant Researcher** at the **Innovation Academy for Micro
 
 Alongside my work on space missions, I remain actively engaged in astrophysical research, with several papers currently in preparation. My main research interest is **Galactic Dynamics**, particularly the dynamics and secular evolution of galactic bars and spiral arms.
 
-I have beed deeply influenced by my advisors, **Shude Mao** & **Youjun Lu**, as well as by the work of many outstanding scholars in galactic dynamics, including **E. Lia Athanassoula, Juntai Shen, G. Contopoulos, and J. A. Sellwood**.
+I have been deeply influenced by my advisors, **Shude Mao** & **Youjun Lu**, as well as by the work of many outstanding scholars in galactic dynamics, including **E. Lia Athanassoula, Juntai Shen, G. Contopoulos, and J. A. Sellwood**.
 
 ### ✨ Astrophysics Highlights
 *   🚀 **Upcoming Presentation:** I will present two of my recent works at the upcoming **AAS DDA 2026**: 
@@ -37,7 +37,7 @@ Through collaborations and academic exchanges, I have had the opportunity to eng
 *   **Ph.D. in Astrophysics**, National Astronomical Observatories, CAS (NAOC)
     *   *Advisors:* Prof. Shude Mao & Prof. Youjun Lu
 *   **M.S. in Astrophysics**, Tsinghua University
-    *  *Following* Prof. Shude Mao & Prof. Charling Tao
+    *  *Advisors:* Prof. Shude Mao & Prof. Charling Tao
 *   **B.S. in Astrophysics**, Nanjing University
     *  GPA: 3.65/4.00, ranked 1st in major for postgraduate recommendation (excluding two students who pursued overseas study)
 
@@ -45,4 +45,4 @@ Through collaborations and academic exchanges, I have had the opportunity to eng
 
 ![](/images/wife.jpg)
 
-Outside academia, I enjoy a life enriched by my wife, who is a falculty Lecturer at Shanghai Normal University. Her research focuses on the musical and metrical theories of classical Chinese theatre, especially Kunqu opera. Our conversations often span both science and the humanities, a balance I deeply value.
+Outside academia, I enjoy a life enriched by my wife, who is a faculty Lecturer at Shanghai Normal University. Her research focuses on the musical and metrical theories of classical Chinese theatre, especially Kunqu opera. Our conversations often span both science and the humanities, a balance I deeply value.
