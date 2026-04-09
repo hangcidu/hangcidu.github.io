@@ -5,11 +5,11 @@ permalink: /early-type_bars/
 author_profile: true
 ---
 
+I am collaborating with **Dr. Yunpeng Jin** on **an environmental dependence of early-type bars using observational and simulation data**. Please email me if there are any potential collaboration opportunities.
+
 ## Paper I
 
 [Revisiting the Excess of Bar-like Structures in TNG50 Early-type Galaxies: Consistency and Tension with Observations](https://arxiv.org/abs/2603.21279), 2026-03-22@arxiv
-
-I am collaborating with **Dr. Yunpeng Jin** on **an environmental dependence of early-type bars using observational and simulation data**. Please email me if there are any potential collaboration opportunities.
 
 ### Westlake talk, 45 min, 2026-04-07
 
