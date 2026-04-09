@@ -37,7 +37,9 @@ Through collaborations and academic exchanges, I have had the opportunity to eng
 *   **Ph.D. in Astrophysics**, National Astronomical Observatories, CAS (NAOC)
     *   *Advisors:* Prof. Shude Mao & Prof. Youjun Lu
 *   **M.S. in Astrophysics**, Tsinghua University
+    *  Following Prof. Shude Mao & Prof. Charling Tao
 *   **B.S. in Astrophysics**, Nanjing University
+    *  GPA: 3.65/4.00, ranked 1st in major for postgraduate recommendation (excluding two students who pursued overseas study)
 
 ### 🌟 Beyond Academia
 
