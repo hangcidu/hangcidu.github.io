@@ -5,6 +5,8 @@ permalink: /early-type_bars/
 author_profile: true
 ---
 
+Paper I: [Revisiting the Excess of Bar-like Structures in TNG50 Early-type Galaxies: Consistency and Tension with Observations](https://arxiv.org/abs/2603.21279), 2026.3.22@arxiv
+
 ## Westlake talk, 45 min
 
 Group talk @ Westlake University, 2026.4.7
