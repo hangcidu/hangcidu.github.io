@@ -12,4 +12,4 @@ TBD.
 
 The code will be open-sourced on 2027-09-05, or earlier upon reasonable request.
 
-I am currently working on a spiral mechanism project based on the Colibre data. Please feel free to email me if there are any potential opportunities for collaboration.
+I am currently working on **a spiral mechanism project based on the Colibre and TNG data**. Please feel free to email me if there are any potential opportunities for collaboration.
