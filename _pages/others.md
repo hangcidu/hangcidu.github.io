@@ -9,9 +9,7 @@ author_profile: true
 
 [Kinematics of RR Lyrae stars in the Galactic bulge with OGLE-IV and Gaia DR2](https://arxiv.org/abs/2007.01102), 2020-07-02@arxiv
 
-**AAS DDA 2020 talk, 10 min, 2020-08-04**
-
-[AAS DDA 2020](https://dda.aas.org/meetings/2020/schedule) talk @ Online
+**[AAS DDA 2020 virtual talk](https://dda.aas.org/meetings/2020/schedule), 10 min, 2020-08-04**
 
 People used to think the bulge RRLs were inner-halo stars with no rotation. I wasn’t buying it.
 
