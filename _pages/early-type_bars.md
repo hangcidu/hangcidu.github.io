@@ -7,9 +7,9 @@ author_profile: true
 
 Paper I: [Revisiting the Excess of Bar-like Structures in TNG50 Early-type Galaxies: Consistency and Tension with Observations](https://arxiv.org/abs/2603.21279), 2026.3.22@arxiv
 
-## Westlake talk, 45 min
+## Westlake talk, 45 min, 2026-04-07
 
-Group talk @ Westlake University, 2026.4.7
+Group talk @ Westlake University
 
 This talk includes some preliminary results that are still in preparation. I am collaborating with **Dr. Yunpeng Jin** on **an environmental dependence of early-type bars using observational and simulation data**. 
 
