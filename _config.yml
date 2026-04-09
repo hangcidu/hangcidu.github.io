@@ -13,7 +13,7 @@ title                    : "Hangci Du (杜航慈)"
 title_separator          : "-"
 name                     : &name "Hangci Du (杜航慈)"
 description              : &description "Galactic dynamics and microsatellites"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://hangcidu.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://hangcidu.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hangcidu/hangcidu.github.io"
