@@ -19,5 +19,4 @@ People used to think the bulge RRLs were inner-halo stars with no rotation. I wa
 
 [**2020 Tsinghua University Admissions Video: Chasing the Light**](https://mp.weixin.qq.com/s/W420XSDzJ5_Dt1w28x9TKg)
 
-Not devoted much, lucky to be in the author list. Prof. Hua Feng really made a ambitious program.
-
+I didn’t contribute much, and I was lucky to be included as an author. Prof. Hua Feng has really built an ambitious student program.
