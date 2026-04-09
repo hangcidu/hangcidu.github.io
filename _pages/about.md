@@ -18,6 +18,8 @@ Alongside my work on space missions, I remain actively engaged in astrophysical 
 
 I have been deeply influenced by my advisors, **Shude Mao** & **Youjun Lu**, as well as by the work of many outstanding scholars in galactic dynamics, including **E. Lia Athanassoula, Juntai Shen, G. Contopoulos, and J. A. Sellwood**.
 
+I use this homepage to explain my science in very simple English.
+
 ### ✨ Astrophysics Highlights
 *   🚀 **Upcoming Presentation:** I will present two of my recent works at the upcoming **AAS DDA 2026**: 
     1. [*Local Pattern Speed*](https://arxiv.org/abs/2603.05287)
