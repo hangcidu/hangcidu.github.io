@@ -3,6 +3,7 @@ title: "Early-Type Bars"
 layout: single
 permalink: /early-type_bars/
 author_profile: true
+comments: true
 ---
 
 I am collaborating with **Dr. Yunpeng Jin** on **an environmental dependence of early-type bars using observational and simulation data**. Please email me if there are any potential collaboration opportunities.
