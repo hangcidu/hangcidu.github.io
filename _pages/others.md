@@ -13,7 +13,7 @@ author_profile: true
 
 People used to think the bulge RRLs were inner-halo stars with no rotation. I wasn’t buying it.
 
-{% include video-vimeo.html id="441911030" %}
+{%- include video-vimeo.html id="441911030" -%}
 
 ## Paper II
 
