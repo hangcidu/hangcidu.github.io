@@ -5,7 +5,7 @@ permalink: /others/
 author_profile: true
 ---
 
-## Paper I 
+## Paper II 
 
 [Kinematics of RR Lyrae stars in the Galactic bulge with OGLE-IV and Gaia DR2](https://arxiv.org/abs/2007.01102), 2020-07-02@arxiv
 
@@ -13,7 +13,7 @@ author_profile: true
 
 People used to think the bulge RRLs were inner-halo stars with no rotation. I wasn’t buying it. 
 
-## Paper II
+## Paper I
 
 [GRID: a Student Project to Monitor the Transient Gamma-Ray Sky in the Multi-Messenger Astronomy Era](https://arxiv.org/abs/1907.06842), 2019-07-16@arxiv
 
