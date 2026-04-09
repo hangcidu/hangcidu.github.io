@@ -15,6 +15,8 @@ People used to think the bulge RRLs were inner-halo stars with no rotation. I wa
 
 {%- include video-vimeo.html id="441911030" -%}
 
+<!-- {% include video-vimeo.html id="441911030" %} -->
+
 ## Paper II
 
 [GRID: a Student Project to Monitor the Transient Gamma-Ray Sky in the Multi-Messenger Astronomy Era](https://arxiv.org/abs/1907.06842), 
