@@ -12,7 +12,7 @@ I am collaborating with **Dr. Yunpeng Jin** on **an environmental dependence of 
 
 [Revisiting the Excess of Bar-like Structures in TNG50 Early-type Galaxies: Consistency and Tension with Observations](https://arxiv.org/abs/2603.21279), 2026-03-22@arxiv
 
-The tension between observations and simulations warns us that barred galaxies are not necessarily disk.
+The tension between observations and simulations warns us that barred galaxies are not necessarily disk, and IllustrisTNG may have a new "bar problem".
 
 ### Westlake talk, 45 min, 2026-04-07
 
