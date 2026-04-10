@@ -17,3 +17,5 @@ A novel unified formalism for measuring the pattern speeds of both bars and spir
 The code will be open-sourced on 2027-09-05, or earlier upon reasonable request.
 
 TBD.
+
+## Comments are Welcome
