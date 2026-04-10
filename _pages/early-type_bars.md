@@ -6,7 +6,7 @@ author_profile: true
 comments: true
 ---
 
-I am collaborating with **Dr. Yunpeng Jin** on **an environmental dependence of early-type bars using observational and simulation data**. Please email me if there are any potential collaboration opportunities.
+I am working on **an environmental dependence of early-type bars using observational and simulation data**. Please email me if there are any potential collaboration opportunities.
 
 ## Paper I
 
