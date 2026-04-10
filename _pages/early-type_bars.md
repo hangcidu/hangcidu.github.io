@@ -16,7 +16,12 @@ The tension between observations and simulations warns us that barred galaxies a
 
 ### Cambridge poster, 2026-4-20
 
-<iframe src="{{ site.baseurl }}/images/Cambridge_BeyondHubble_Beamerposter.pdf" width="100%" height="800px"></iframe>
+<object data="{{ site.baseurl }}/images/Cambridge_BeyondHubble_Beamerposter.pdf" type="application/pdf" width="100%" height="800px">
+  <p>
+    Your browser cannot display the poster inline.
+    Please <a href="{{ site.baseurl }}/images/Cambridge_BeyondHubble_Beamerposter.pdf">click here to open/download the PDF</a>.
+  </p>
+</object>
 
 
 Poster @ Cambridge University [KICC](https://www.kicc.cam.ac.uk/events/beyondhubble-revisiting-hubble-sequence-across-cosmic-time) [ByondHubble Workshop](https://sites.google.com/cam.ac.uk/beyondhubble), A meeting revisiting the Hubble Sequence 100 years on.
