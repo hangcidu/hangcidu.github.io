@@ -14,6 +14,12 @@ I am collaborating with **Dr. Yunpeng Jin** on **an environmental dependence of 
 
 The tension between observations and simulations warns us that barred galaxies are not necessarily disk, and IllustrisTNG may have a new "bar problem".
 
+### Cambridge poster, 2026-4-20
+
+<iframe src="{{ site.baseurl }}/images/Cambridge_BeyondHubble_Beamerposter.pdf" width="100%" height="800px"></iframe>
+
+This is a late poster, I was not on site, but LOC reserved a poster spot for me.
+
 ### Westlake talk, 45 min, 2026-04-07
 
 {% include google_slides.html url="https://docs.google.com/presentation/d/e/2PACX-1vR6TxXDAxyCfVa5qWgqUUaRfbTAcRlukKVbk1086zv8p5n5nOBtX3CHpPt-3NUfl9LYd4YwJKAT46oW/pubembed?start=false&loop=false&delayms=3000" %}
