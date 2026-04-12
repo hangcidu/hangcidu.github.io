@@ -22,7 +22,7 @@ The tension between observations and simulations warns us that barred galaxies a
 
 Poster @ Cambridge University [KICC](https://www.kicc.cam.ac.uk/events/beyondhubble-revisiting-hubble-sequence-across-cosmic-time) [ByondHubble Workshop](https://sites.google.com/cam.ac.uk/beyondhubble), A meeting revisiting the Hubble Sequence 100 years on.
 
-This was a late poster submission, submitted 10 days before the conference started. I was not on site, but the LOC reserved a poster spot for me so attendees could view it.
+This poster was presented in absentia, with support from the Local Organizing Committee.
 
 ### Westlake talk, 45 min, 2026-04-07
 
