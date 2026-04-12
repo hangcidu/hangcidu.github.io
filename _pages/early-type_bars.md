@@ -12,7 +12,7 @@ I am working on **an environmental dependence of early-type bars using observati
 
 [Revisiting the Excess of Bar-like Structures in TNG50 Early-type Galaxies: Consistency and Tension with Observations](https://arxiv.org/abs/2603.21279), 2026-03-22@arxiv
 
-The tension between observations and simulations warns us that barred galaxies are not necessarily disk, and IllustrisTNG may face a new "bar problem".
+The tension between observations and simulations warns us that barred galaxies are not necessarily discs, and IllustrisTNG may face a new "bar problem".
 
 ### Cambridge poster, 2026-4-20
 
