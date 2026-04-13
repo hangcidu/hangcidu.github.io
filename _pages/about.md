@@ -50,4 +50,8 @@ Through collaborations and academic exchanges, I have had the opportunity to eng
 
 Outside academia, I enjoy a life enriched by my wife, who is a faculty Lecturer at Shanghai Normal University. Her research focuses on the musical and metrical theories of classical Chinese theatre, especially Kunqu opera. Our conversations often span both science and the humanities, a balance I deeply value.
 
+### 🌎 Visitor Map
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=weIBsWJf7YTcN_t1fEhKTQpRUcGOYsf1rhMTJxYV2as&cl=ffffff&w=a"></script>
+
 ## Ask Me
