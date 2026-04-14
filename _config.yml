@@ -55,7 +55,7 @@ author:
   
   links:
     - label: "ads"
-      icon: "ai ai-ads"
+      icon: "ai ai-ads ai-fw"
       url: "https://scixplorer.org/search?d=general&fq=%7B%21type%3Daqp+v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%5C%2FDu%2C+H%5C%2FDu%2C+Hangci%22)&p=1&q=author%3A%22du%2C+hangci%22&sort=score+desc&sort=date+desc"
 
 
