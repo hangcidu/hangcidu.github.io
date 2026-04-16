@@ -41,7 +41,7 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : "https://arxiv.org/a/0000-0003-1022-4617.html" # URL - Update with the correct link to your profile
+  arxiv            : # URL - Update with the correct link to your profile
   ads              : "https://scixplorer.org/search?d=general&fq=%7B%21type%3Daqp+v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%5C%2FDu%2C+H%5C%2FDu%2C+Hangci%22)&p=1&q=author%3A%22du%2C+hangci%22&sort=score+desc&sort=date+desc"
   googlescholar    : "https://scholar.google.com/citations?user=8LAfeN4AAAAJ"
   inspire-hep      : # URL
@@ -58,7 +58,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "hangcidu"
+  github           : 
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
