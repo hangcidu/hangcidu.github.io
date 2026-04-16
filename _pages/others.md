@@ -6,6 +6,15 @@ author_profile: true
 comments: true
 ---
 
+## Reading Notes
+
+### Galaxy Formation and Evolution, MBW10
+<iframe src="{{ site.baseurl }}/files/星系天文学读书笔记.pdf" width="100%" height="800px"></iframe>
+
+### Galactic Dynamics, BT08
+
+<iframe src="{{ site.baseurl }}/files/星系动力学读书笔记.pdf" width="100%" height="800px"></iframe>
+
 ## Paper II 
 
 [Kinematics of RR Lyrae stars in the Galactic bulge with OGLE-IV and Gaia DR2](https://arxiv.org/abs/2007.01102), 2020-07-02@arxiv
