@@ -8,13 +8,6 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
-.sidebar {
-  max-height: 100vh;
-  overflow-y: auto;
-  position: sticky;
-  top: 0;
-}
-
 @import
     "vendor/breakpoint/breakpoint",
 
@@ -48,3 +41,20 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+.sidebar {
+  max-height: 100vh;
+  overflow-y: auto;
+  position: sticky;
+  top: 0;
+}
+.author__avatar img {
+  max-width: 120px;
+  height: auto;
+}
+.author__content {
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+.author__urls li {
+  margin-bottom: 0.25rem;
+}
