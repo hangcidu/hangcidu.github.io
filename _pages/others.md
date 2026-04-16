@@ -1,5 +1,5 @@
 ---
-title: "Others"
+title: "Miscellaneous"
 layout: single
 permalink: /others/
 author_profile: true
