@@ -6,6 +6,8 @@ author_profile: true
 comments: true
 ---
 
+{:toc}
+
 ## Reading Notes
 
 ### Galaxy Formation and Evolution, MBW10
