@@ -5,7 +5,7 @@ permalink: /others/
 author_profile: true
 comments: true
 ---
-
+* TOC
 {:toc}
 
 ## Reading Notes
