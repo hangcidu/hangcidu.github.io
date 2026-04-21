@@ -17,7 +17,7 @@ comments: true
 
 <iframe src="{{ site.baseurl }}/files/星系动力学读书笔记.pdf" width="100%" height="800px"></iframe>
 
-## Paper II 
+## Paper II Bulge RRLs
 
 [Kinematics of RR Lyrae stars in the Galactic bulge with OGLE-IV and Gaia DR2](https://arxiv.org/abs/2007.01102), 2020-07-02@arxiv
 
@@ -25,7 +25,7 @@ comments: true
 
 People used to think the bulge RRLs were inner-halo stars with no rotation. I wasn’t buying it. 
 
-## Paper I
+## Paper I GRID: Gamma-Ray Transient Monitor Constellation
 
 [GRID: a Student Project to Monitor the Transient Gamma-Ray Sky in the Multi-Messenger Astronomy Era](https://arxiv.org/abs/1907.06842), 2019-07-16@arxiv
 
