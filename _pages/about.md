@@ -24,7 +24,9 @@ I use this homepage to **explain my science in very simple English**.
 *   🚀 **Upcoming Presentation:** I will present two of my recent works at the upcoming **AAS DDA 2026**: 
     1. [*Local Pattern Speed*](https://arxiv.org/abs/2603.05287)
     2. [*TNG50 Early-Type Bars*](https://arxiv.org/abs/2603.21279) (Nominated for an RAA Highlight)
-*   📝 **Academic Service:** Referee for *MNRAS* (recommended by **Prof. Simon White**).
+*   📝 **Academic Service:**
+    *   Referee for *MNRAS* (recommended by **Prof. Simon White**).
+    *   [Slack chair](https://dda.aas.org/node/184) for 2026 57th AAS DDA Annual Meeting.
 
 ### 🛰️ Space Projects
 
