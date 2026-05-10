@@ -26,7 +26,7 @@ I use this homepage to **explain my science in very simple English**.
     2. [*TNG50 Early-Type Bars*](https://arxiv.org/abs/2603.21279) (Nominated for an RAA Highlight)
 *   📝 **Academic Service:**
     *   Referee for *MNRAS* (recommended by **Prof. Simon White**).
-    *   [_Slack chair_](https://dda.aas.org/node/184) for 2026 57th _AAS DDA Annual Meeting_.
+    *   [_Slack chair_](https://dda.aas.org/node/184) for 2026 57th AAS DDA Annual Meeting.
 
 ### 🛰️ Space Projects
 
