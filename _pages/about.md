@@ -21,11 +21,11 @@ I have been deeply influenced by my advisors, **Shude Mao** & **Youjun Lu**, as 
 I use this homepage to **explain my science in very simple English**.
 
 ### ✨ Astrophysics Highlights
-*   🚀 **Upcoming Presentation:** I will present two of my recent works at the upcoming **AAS DDA 2026**: 
+*   🚀 **Two recent progress:**: 
     1. [*Local Pattern Speed*](https://arxiv.org/abs/2603.05287)
     2. [*TNG50 Early-Type Bars*](https://arxiv.org/abs/2603.21279) (Nominated for an RAA Highlight)
 *   📝 **Academic Service:**
-    *   Referee for *MNRAS* (recommended by **Prof. Simon White**).
+    *   Referee for *MNRAS* (recommended by **Prof. Simon White**), *A&A* (invited by **Prof. Françoise Combes**).
     *   [_Slack chair_](https://dda.aas.org/node/184) for 2026 57th AAS DDA Annual Meeting.
 
 ### 🛰️ Space Projects
